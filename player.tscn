@@ -1,5 +1,5 @@
 [gd_scene load_steps=2 format=3 uid="uid://c1oyudw0bvvul"]
 
-[ext_resource type="PackedScene" uid="uid://c7wvggcy8o6co" path="res://models/partToSTLToGLB.glb" id="1_3te2k"]
+[ext_resource type="PackedScene" uid="uid://cgmyiu60d0cb2" path="res://models/TruckKun01.fbx" id="1_7e7pe"]
 
-[node name="Default" instance=ExtResource("1_3te2k")]
+[node name="TruckKun01" instance=ExtResource("1_7e7pe")]
